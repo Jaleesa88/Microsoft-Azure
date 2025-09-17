@@ -48,18 +48,22 @@
 
 <img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/8021bdac-9116-4ae8-b1f6-7a3214644765" />
 
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/acba0976-6e01-4041-add2-3e976a1ee3c3" />
+
+
 <img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/2b11ed07-1ba2-444d-a519-158e9b2d8322" />
 
 
 <img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/71ce2c1b-16d5-4710-a35f-f740b0ea101f" />
-details
 
-<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/acba0976-6e01-4041-add2-3e976a1ee3c3" />
+
 
 <img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/a55af219-2b9b-4864-8722-77db23b5ddf3" />
 
 
 <img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/9e4c65fb-4ae7-42e4-8fb4-0eab0a0df7be" />
+
+
 
 <h2>CHANGING STATIC IN DOMAIN CONTROLLER</h2>
 
