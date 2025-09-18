@@ -31,6 +31,8 @@
 
   <h2>CREATING RESOURCE GROUPS</h2>
 
+
+<d />Click Resource Group <d />
 <img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/46bed23a-e9f5-4fa8-aaf4-47cbaf82f8d3" />
 
 
